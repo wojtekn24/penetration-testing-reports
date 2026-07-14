@@ -2,7 +2,7 @@
 
 # 🎯 Helix — HackTheBox Penetration Test
 
-![Result](https://img.shields.io/badge/Result-User_Access-yellow?style=for-the-badge)
+![Result](https://img.shields.io/badge/Result-Root-brightgreen?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-Black--box-red?style=for-the-badge)
 ![Target](https://img.shields.io/badge/Stack-Apache_NiFi_%7C_OPC_UA-blue?style=for-the-badge)
 
