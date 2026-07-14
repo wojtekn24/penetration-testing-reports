@@ -71,7 +71,8 @@ Running the processor called back to a listener — shell access as the `nifi` s
 
 ![OPC UA client used to continue enumeration](assets/helix-08-opcua-client.png)
 
-The engagement was recorded up to this point: user access confirmed, with the OPC UA maintenance-mode service identified as the likely path toward further escalation.
+
+![Root](assets/helix-09.png)
 
 ---
 
