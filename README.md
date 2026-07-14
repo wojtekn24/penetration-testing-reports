@@ -16,7 +16,7 @@ Black-box penetration test write-ups against real HackTheBox machines — full r
 | Target | Result | Highlights |
 |---|---|---|
 | [**DevHub**](reports/devhub/) | 🟢 Root | Unauthenticated RCE (CVE-2026-23744) → hardcoded creds → root-owned service leaks root's SSH key |
-| [**Helix**](reports/helix/) | 🟡 User | Virtual-host discovery → Apache NiFi RCE → SSH key pivot → user flag, OPC UA escalation path identified |
+| [**Helix**](reports/helix/) | 🟢 Root | Virtual-host discovery → Apache NiFi RCE → SSH key pivot → user flag, OPC UA escalation path identified |
 
 *Coursework labs (fundamentals: Kali setup, Nmap, Burp Suite/DVWA, service enumeration) — coming soon.*
 
